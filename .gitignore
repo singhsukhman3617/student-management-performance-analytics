@@ -1,0 +1,15 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Database credentials
+config.py
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
